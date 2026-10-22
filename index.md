@@ -6,4 +6,4 @@ alle Daten bleiben auf deinem Gerät.
 - [Datenschutzerklärung](datenschutz.html)
 - [Impressum](impressum.html)
 
-Kontakt: feedback.milo.training@gmail.com
+Kontakt: hello@milo-training.net

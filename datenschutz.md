@@ -21,7 +21,7 @@ Verantwortlich im Sinne von Art. 4 Nr. 7 DSGVO:
 > 22525 Hamburg
 > Deutschland
 >
-> E-Mail: feedback.milo.training@gmail.com
+> E-Mail: hello@milo-training.net
 
 Ein Datenschutzbeauftragter ist nicht bestellt; die Voraussetzungen des
 Art. 37 DSGVO bzw. § 38 BDSG liegen nicht vor.

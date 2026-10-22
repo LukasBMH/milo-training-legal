@@ -7,7 +7,7 @@ Randstraße 1
 22525 Hamburg
 Deutschland
 
-E-Mail: feedback.milo.training@gmail.com
+E-Mail: hello@milo-training.net
 
 Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV: Lukas Ben
 Mangel-Hoffmann, Anschrift wie oben.
@@ -15,4 +15,4 @@ Mangel-Hoffmann, Anschrift wie oben.
 Zur Teilnahme an einem Streitbeilegungsverfahren vor einer
 Verbraucherschlichtungsstelle sind wir nicht verpflichtet und nicht bereit.
 
-*Stand: 21. Oktober 2026*
+*Stand: 22. Oktober 2026*
