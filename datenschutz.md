@@ -1,6 +1,6 @@
 # Datenschutzerklärung — Milo Training
 
-**Stand: 9. September 2026**
+**Stand: 22. Oktober 2026**
 
 ## Kurzfassung
 
@@ -190,13 +190,12 @@ Unabhängig davon hast du nach Art. 77 DSGVO das Recht, dich bei einer
 Datenschutz-Aufsichtsbehörde zu beschweren. Zuständig ist die Behörde deines
 Wohnsitzes oder unseres Sitzes:
 
-> **Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein (ULD)**
-> Holstenstraße 98
-> 24103 Kiel
+> **Der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit (HmbBfDI)**
+> Ludwig-Erhard-Straße 22, 7. OG
+> 20459 Hamburg
 >
-> Telefon: +49 431 988-1200
-> E-Mail: mail@datenschutzzentrum.de
-> <https://www.datenschutzzentrum.de>
+> E-Mail: mailbox@datenschutz.hamburg.de
+> <https://datenschutz-hamburg.de>
 
 ## 12. Kinder
 
